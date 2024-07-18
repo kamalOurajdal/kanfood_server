@@ -8,7 +8,6 @@ db.sqlite3
 staticfiles/
 
 # Ignore media files
-media/
 
 # Ignore local development settings
 local_settings.py
