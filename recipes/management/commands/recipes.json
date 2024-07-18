@@ -1,0 +1,1412 @@
+[
+  {
+    "id": "1",
+    "title": "Greek salad",
+    "image": "food_1.png",
+    "price": 12,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Salad",
+    "ingredients": [
+      "Romaine lettuce",
+      "Cucumber",
+      "Tomatoes",
+      "Red onion",
+      "Feta cheese",
+      "Kalamata olives",
+      "Extra virgin olive oil",
+      "Red wine vinegar",
+      "Dried oregano"
+    ],
+    "instructions": [
+      "Chop the vegetables",
+      "Mix vegetables in a large bowl",
+      "Add crumbled feta cheese and olives",
+      "Whisk olive oil, vinegar, and oregano for dressing",
+      "Pour dressing over salad and toss gently"
+    ],
+    "cooking_time": 15,
+    "servings": 4,
+    "created_at": "2024-07-17T10:00:00Z",
+    "updated_at": "2024-07-17T10:00:00Z",
+    "author": 1,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 230,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 7,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 19,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 10,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Veg salad",
+    "image": "food_2.png",
+    "price": 18,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Salad",
+    "ingredients": [
+      "Mixed greens",
+      "Cherry tomatoes",
+      "Cucumber",
+      "Bell peppers",
+      "Carrots",
+      "Red onion",
+      "Avocado",
+      "Sunflower seeds",
+      "Balsamic vinaigrette"
+    ],
+    "instructions": [
+      "Wash and chop all vegetables",
+      "Combine vegetables in a large bowl",
+      "Slice avocado and add to the salad",
+      "Sprinkle sunflower seeds",
+      "Drizzle with balsamic vinaigrette",
+      "Toss gently and serve"
+    ],
+    "cooking_time": 20,
+    "servings": 3,
+    "created_at": "2024-07-17T10:05:00Z",
+    "updated_at": "2024-07-17T10:05:00Z",
+    "author": 2,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 180,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 14,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 15,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Clover Salad",
+    "image": "food_3.png",
+    "price": 16,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Salad",
+    "ingredients": [
+      "Fresh clover leaves",
+      "Baby spinach",
+      "Radishes",
+      "Goat cheese",
+      "Walnuts",
+      "Apple cider vinaigrette"
+    ],
+    "instructions": [
+      "Wash clover leaves and spinach",
+      "Slice radishes thinly",
+      "Combine greens and radishes in a bowl",
+      "Crumble goat cheese over the salad",
+      "Toast walnuts and add to the salad",
+      "Drizzle with apple cider vinaigrette"
+    ],
+    "cooking_time": 15,
+    "servings": 2,
+    "created_at": "2024-07-17T10:10:00Z",
+    "updated_at": "2024-07-17T10:10:00Z",
+    "author": 3,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 200,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 16,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 8,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "Chicken Salad",
+    "image": "food_4.png",
+    "price": 24,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Salad",
+    "ingredients": [
+      "Grilled chicken breast",
+      "Mixed salad greens",
+      "Cherry tomatoes",
+      "Cucumber",
+      "Red onion",
+      "Croutons",
+      "Caesar dressing"
+    ],
+    "instructions": [
+      "Grill chicken breast and slice",
+      "Wash and chop vegetables",
+      "Mix salad greens, tomatoes, cucumber, and onion",
+      "Add sliced chicken on top",
+      "Sprinkle with croutons",
+      "Drizzle with Caesar dressing"
+    ],
+    "cooking_time": 25,
+    "servings": 2,
+    "created_at": "2024-07-17T10:15:00Z",
+    "updated_at": "2024-07-17T10:15:00Z",
+    "author": 1,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 350,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 15,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "title": "Lasagna Rolls",
+    "image": "food_5.png",
+    "price": 14,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Rolls",
+    "ingredients": [
+      "Lasagna noodles",
+      "Ricotta cheese",
+      "Spinach",
+      "Ground beef",
+      "Marinara sauce",
+      "Mozzarella cheese",
+      "Parmesan cheese"
+    ],
+    "instructions": [
+      "Cook lasagna noodles",
+      "Mix ricotta, spinach, and cooked ground beef",
+      "Spread mixture on noodles and roll up",
+      "Place rolls in baking dish",
+      "Cover with marinara sauce and cheeses",
+      "Bake until cheese is melted and bubbly"
+    ],
+    "cooking_time": 45,
+    "servings": 4,
+    "created_at": "2024-07-17T10:20:00Z",
+    "updated_at": "2024-07-17T10:20:00Z",
+    "author": 2,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 420,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 22,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 35,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "title": "Peri Peri Rolls",
+    "image": "food_6.png",
+    "price": 12,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Rolls",
+    "ingredients": [
+      "Chicken strips",
+      "Peri peri sauce",
+      "Lettuce",
+      "Tomato",
+      "Mayonnaise",
+      "Soft rolls"
+    ],
+    "instructions": [
+      "Marinate chicken in peri peri sauce",
+      "Grill marinated chicken",
+      "Toast soft rolls",
+      "Spread mayonnaise on rolls",
+      "Add lettuce, tomato, and grilled chicken",
+      "Drizzle with extra peri peri sauce if desired"
+    ],
+    "cooking_time": 30,
+    "servings": 3,
+    "created_at": "2024-07-17T10:25:00Z",
+    "updated_at": "2024-07-17T10:25:00Z",
+    "author": 3,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 380,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 22,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 18,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 35,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "title": "Veg Rolls",
+    "image": "food_8.png",
+    "price": 15,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Rolls",
+    "ingredients": [
+      "Flour tortillas",
+      "Hummus",
+      "Cucumber",
+      "Bell peppers",
+      "Carrots",
+      "Lettuce",
+      "Feta cheese"
+    ],
+    "instructions": [
+      "Spread hummus on tortillas",
+      "Layer vegetables and feta cheese",
+      "Roll up tightly",
+      "Slice into pinwheels",
+      "Secure with toothpicks if needed",
+      "Serve chilled"
+    ],
+    "cooking_time": 20,
+    "servings": 4,
+    "created_at": "2024-07-17T10:30:00Z",
+    "updated_at": "2024-07-17T10:30:00Z",
+    "author": 1,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 280,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 12,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 35,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Ripple Ice Cream",
+    "image": "food_9.png",
+    "price": 14,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Deserts",
+    "ingredients": [
+      "Vanilla ice cream base",
+      "Fruit puree (e.g., raspberry)",
+      "Sugar",
+      "Lemon juice"
+    ],
+    "instructions": [
+      "Prepare vanilla ice cream base",
+      "Make fruit puree by blending fruit with sugar and lemon juice",
+      "Layer ice cream base and fruit puree in a container",
+      "Swirl with a knife to create ripples",
+      "Freeze until firm",
+      "Scoop and serve"
+    ],
+    "cooking_time": 240,
+    "servings": 6,
+    "created_at": "2024-07-17T10:35:00Z",
+    "updated_at": "2024-07-17T10:35:00Z",
+    "author": 2,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 250,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 14,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 30,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "title": "Fruit Ice Cream",
+    "image": "food_10.png",
+    "price": 22,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Deserts",
+    "ingredients": [
+      "Heavy cream",
+      "Condensed milk",
+      "Mixed berries",
+      "Lemon juice",
+      "Vanilla extract"
+    ],
+    "instructions": [
+      "Whip heavy cream until stiff peaks form",
+      "Fold in condensed milk",
+      "Puree mixed berries with lemon juice",
+      "Gently fold fruit puree into cream mixture",
+      "Add vanilla extract",
+      "Freeze for at least 6 hours",
+      "Scoop and serve"
+    ],
+    "cooking_time": 360,
+    "servings": 8,
+    "created_at": "2024-07-17T10:40:00Z",
+    "updated_at": "2024-07-17T10:40:00Z",
+    "author": 3,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 280,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 18,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 28,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+  "id": "12",
+  "title": "Vanilla Ice Cream",
+  "image": "food_12.png",
+  "price": 12,
+  "description": "Food provides essential nutrients for overall health and well-being",
+  "category": "Deserts",
+  "ingredients": [
+    "Heavy cream",
+    "Whole milk",
+    "Sugar",
+    "Vanilla extract",
+    "Salt"
+  ],
+  "instructions": [
+    "Whisk together cream, milk, sugar, and salt in a saucepan",
+    "Heat mixture until sugar dissolves",
+    "Remove from heat and add vanilla extract",
+    "Chill mixture thoroughly",
+    "Churn in an ice cream maker",
+    "Freeze until firm"
+  ],
+  "cooking_time": 240,
+  "servings": 6,
+  "created_at": "2024-07-17T10:45:00Z",
+  "updated_at": "2024-07-17T10:45:00Z",
+  "author": 1,
+  "is_featured": false,
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": 270,
+      "unit": "kcal"
+    },
+    {
+      "name": "Protein",
+      "value": 3,
+      "unit": "g"
+    },
+    {
+      "name": "Fat",
+      "value": 18,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "value": 25,
+      "unit": "g"
+    }
+  ]
+},
+  {
+    "id": "13",
+    "title": "Chicken Sandwich",
+    "image": "food_13.png",
+    "price": 12,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Sandwich",
+    "ingredients": [
+      "Grilled chicken breast",
+      "Whole grain bread",
+      "Lettuce",
+      "Tomato",
+      "Avocado",
+      "Mayonnaise",
+      "Dijon mustard"
+    ],
+    "instructions": [
+      "Grill chicken breast and slice",
+      "Toast bread slices",
+      "Spread mayonnaise and mustard on bread",
+      "Layer lettuce, tomato, chicken, and avocado",
+      "Close sandwich and cut diagonally"
+    ],
+    "cooking_time": 20,
+    "servings": 1,
+    "created_at": "2024-07-17T10:50:00Z",
+    "updated_at": "2024-07-17T10:50:00Z",
+    "author": 2,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 450,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 30,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 22,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 35,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "title": "Vegan Sandwich",
+    "image": "food_14.png",
+    "price": 18,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Sandwich",
+    "ingredients": [
+      "Whole grain bread",
+      "Hummus",
+      "Cucumber",
+      "Tomato",
+      "Avocado",
+      "Sprouts",
+      "Red onion"
+    ],
+    "instructions": [
+      "Toast bread slices",
+      "Spread hummus on both slices",
+      "Layer cucumber, tomato, avocado, sprouts, and red onion",
+      "Close sandwich and cut in half"
+    ],
+    "cooking_time": 10,
+    "servings": 1,
+    "created_at": "2024-07-17T10:55:00Z",
+    "updated_at": "2024-07-17T10:55:00Z",
+    "author": 3,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 380,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 12,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 20,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 42,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "title": "Grilled Sandwich",
+    "image": "food_15.png",
+    "price": 16,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Sandwich",
+    "ingredients": [
+      "Sourdough bread",
+      "Cheddar cheese",
+      "Mozzarella cheese",
+      "Butter",
+      "Tomato",
+      "Bacon"
+    ],
+    "instructions": [
+      "Butter outer sides of bread slices",
+      "Layer cheeses, tomato, and bacon between bread slices",
+      "Heat skillet over medium heat",
+      "Grill sandwich until golden brown and cheese melts",
+      "Cut diagonally and serve hot"
+    ],
+    "cooking_time": 15,
+    "servings": 1,
+    "created_at": "2024-07-17T11:00:00Z",
+    "updated_at": "2024-07-17T11:00:00Z",
+    "author": 1,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 550,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 25,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 35,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 38,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Cup Cake",
+    "image": "food_17.png",
+    "price": 14,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Cake",
+    "ingredients": [
+      "All-purpose flour",
+      "Sugar",
+      "Baking powder",
+      "Salt",
+      "Unsalted butter",
+      "Eggs",
+      "Vanilla extract",
+      "Milk"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C)",
+      "Mix dry ingredients in a bowl",
+      "Cream butter and sugar in another bowl",
+      "Add eggs and vanilla to butter mixture",
+      "Alternately add dry ingredients and milk to the butter mixture",
+      "Fill cupcake liners 2/3 full",
+      "Bake for 18-20 minutes",
+      "Cool and frost as desired"
+    ],
+    "cooking_time": 35,
+    "servings": 12,
+    "created_at": "2024-07-17T11:05:00Z",
+    "updated_at": "2024-07-17T11:05:00Z",
+    "author": 2,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 220,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 30,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Butterscotch Cake",
+    "image": "food_19.png",
+    "price": 20,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Cake",
+    "ingredients": [
+      "All-purpose flour",
+      "Brown sugar",
+      "Butter",
+      "Eggs",
+      "Baking powder",
+      "Salt",
+      "Milk",
+      "Vanilla extract",
+      "Butterscotch chips"
+    ],
+    "instructions": [
+      "Preheat oven to 350°F (175°C)",
+      "Cream butter and brown sugar",
+      "Add eggs one at a time",
+      "Mix dry ingredients separately",
+      "Alternately add dry ingredients and milk to the butter mixture",
+      "Fold in butterscotch chips",
+      "Pour batter into prepared pan",
+      "Bake for 30-35 minutes",
+      "Cool and frost with butterscotch icing"
+    ],
+    "cooking_time": 50,
+    "servings": 10,
+    "created_at": "2024-07-17T11:10:00Z",
+    "updated_at": "2024-07-17T11:10:00Z",
+    "author": 3,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 380,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 18,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 52,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "20",
+    "title": "Sliced Cake",
+    "image": "food_20.png",
+    "price": 15,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Cake",
+    "ingredients": [
+      "Pound cake",
+      "Whipped cream",
+      "Fresh berries",
+      "Powdered sugar"
+    ],
+    "instructions": [
+      "Slice pound cake into even pieces",
+      "Whip cream until stiff peaks form",
+      "Layer cake slices with whipped cream and berries",
+      "Dust with powdered sugar",
+      "Chill before serving"
+    ],
+    "cooking_time": 20,
+    "servings": 8,
+    "created_at": "2024-07-17T11:15:00Z",
+    "updated_at": "2024-07-17T11:15:00Z",
+    "author": 1,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 280,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 4,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 15,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 35,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "21",
+    "title": "Garlic Mushroom",
+    "image": "food_21.png",
+    "price": 14,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Pure Veg",
+    "ingredients": [
+      "Button mushrooms",
+      "Garlic",
+      "Olive oil",
+      "Butter",
+      "Fresh parsley",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Clean and slice mushrooms",
+      "Mince garlic",
+      "Heat olive oil and butter in a pan",
+      "Sauté garlic until fragrant",
+      "Add mushrooms and cook until golden",
+      "Season with salt and pepper",
+      "Garnish with chopped parsley"
+    ],
+    "cooking_time": 20,
+    "servings": 4,
+    "created_at": "2024-07-17T11:20:00Z",
+    "updated_at": "2024-07-17T11:20:00Z",
+    "author": 2,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 120,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 3,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 6,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "22",
+    "title": "Fried Cauliflower",
+    "image": "food_22.png",
+    "price": 22,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Pure Veg",
+    "ingredients": [
+      "Cauliflower florets",
+      "All-purpose flour",
+      "Cornstarch",
+      "Baking powder",
+      "Salt",
+      "Black pepper",
+      "Garlic powder",
+      "Milk",
+      "Vegetable oil for frying"
+    ],
+    "instructions": [
+      "Mix flour, cornstarch, baking powder, and seasonings",
+      "Whisk in milk to make a batter",
+      "Dip cauliflower florets in batter",
+      "Heat oil in a deep fryer or large pot",
+      "Fry cauliflower until golden brown",
+      "Drain on paper towels",
+      "Serve hot with dipping sauce"
+    ],
+    "cooking_time": 30,
+    "servings": 4,
+    "created_at": "2024-07-17T11:25:00Z",
+    "updated_at": "2024-07-17T11:25:00Z",
+    "author": 3,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 220,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 14,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 22,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+  "id": "23",
+  "title": "Mix Veg Pulao",
+  "image": "food_23.png",
+  "price": 10,
+  "description": "Food provides essential nutrients for overall health and well-being",
+  "category": "Pure Veg",
+  "ingredients": [
+    "Basmati rice",
+    "Mixed vegetables (carrots, peas, beans)",
+    "Onion",
+    "Ginger-garlic paste",
+    "Cumin seeds",
+    "Bay leaf",
+    "Cinnamon stick",
+    "Cloves",
+    "Cardamom pods",
+    "Turmeric powder",
+    "Ghee",
+    "Salt"
+  ],
+  "instructions": [
+    "Rinse and soak rice for 30 minutes",
+    "Heat ghee in a pan, add whole spices",
+    "Sauté onions until golden",
+    "Add ginger-garlic paste and cook",
+    "Add mixed vegetables and turmeric",
+    "Drain rice and add to the pan",
+    "Add water and salt, bring to a boil",
+    "Cover and cook on low heat until done",
+    "Fluff with a fork and serve hot"
+  ],
+  "cooking_time": 40,
+  "servings": 4,
+  "created_at": "2024-07-17T11:30:00Z",
+  "updated_at": "2024-07-17T11:30:00Z",
+  "author": 1,
+  "is_featured": true,
+  "nutrition": [
+    {
+      "name": "Calories",
+      "value": 280,
+      "unit": "kcal"
+    },
+    {
+      "name": "Protein",
+      "value": 6,
+      "unit": "g"
+    },
+    {
+      "name": "Fat",
+      "value": 8,
+      "unit": "g"
+    },
+    {
+      "name": "Carbohydrates",
+      "value": 48,
+      "unit": "g"
+    }
+  ]
+},
+  {
+    "id": "24",
+    "title": "Rice Zucchini",
+    "image": "food_24.png",
+    "price": 12,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Pure Veg",
+    "ingredients": [
+      "Zucchini",
+      "Olive oil",
+      "Garlic",
+      "Red pepper flakes",
+      "Salt",
+      "Black pepper",
+      "Fresh basil",
+      "Grated Parmesan cheese"
+    ],
+    "instructions": [
+      "Spiralize zucchini into noodles",
+      "Heat olive oil in a pan",
+      "Sauté garlic and red pepper flakes",
+      "Add zucchini noodles and cook until tender",
+      "Season with salt and pepper",
+      "Toss with fresh basil",
+      "Sprinkle with Parmesan cheese before serving"
+    ],
+    "cooking_time": 15,
+    "servings": 2,
+    "created_at": "2024-07-17T11:35:00Z",
+    "updated_at": "2024-07-17T11:35:00Z",
+    "author": 2,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 120,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 5,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 9,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 7,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "title": "Cheese Pasta",
+    "image": "food_25.png",
+    "price": 12,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Pasta",
+    "ingredients": [
+      "Pasta (any shape)",
+      "Butter",
+      "All-purpose flour",
+      "Milk",
+      "Cheddar cheese",
+      "Parmesan cheese",
+      "Salt",
+      "Black pepper",
+      "Nutmeg"
+    ],
+    "instructions": [
+      "Cook pasta according to package instructions",
+      "Melt butter in a saucepan",
+      "Whisk in flour to make a roux",
+      "Gradually add milk, whisking constantly",
+      "Cook until sauce thickens",
+      "Add cheeses and stir until melted",
+      "Season with salt, pepper, and nutmeg",
+      "Toss cooked pasta with cheese sauce",
+      "Serve hot, garnished with extra cheese if desired"
+    ],
+    "cooking_time": 25,
+    "servings": 4,
+    "created_at": "2024-07-17T11:40:00Z",
+    "updated_at": "2024-07-17T11:40:00Z",
+    "author": 3,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 420,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 18,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 22,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "27",
+    "title": "Creamy Pasta",
+    "image": "food_27.png",
+    "price": 16,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Pasta",
+    "ingredients": [
+      "Fettuccine pasta",
+      "Heavy cream",
+      "Butter",
+      "Garlic",
+      "Parmesan cheese",
+      "Salt",
+      "Black pepper",
+      "Fresh parsley"
+    ],
+    "instructions": [
+      "Cook pasta according to package instructions",
+      "In a large skillet, melt butter and sauté garlic",
+      "Add heavy cream and bring to a simmer",
+      "Reduce heat and stir in Parmesan cheese",
+      "Season with salt and pepper",
+      "Toss cooked pasta with the sauce",
+      "Garnish with fresh parsley before serving"
+    ],
+    "cooking_time": 20,
+    "servings": 4,
+    "created_at": "2024-07-17T11:45:00Z",
+    "updated_at": "2024-07-17T11:45:00Z",
+    "author": 1,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 480,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 14,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 32,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 38,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "28",
+    "title": "Chicken Pasta",
+    "image": "food_28.png",
+    "price": 24,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Pasta",
+    "ingredients": [
+      "Penne pasta",
+      "Chicken breast",
+      "Olive oil",
+      "Garlic",
+      "Sun-dried tomatoes",
+      "Spinach",
+      "Heavy cream",
+      "Parmesan cheese",
+      "Italian seasoning",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Cook pasta according to package instructions",
+      "Season chicken with salt, pepper, and Italian seasoning",
+      "Cook chicken in olive oil until done, then slice",
+      "In the same pan, sauté garlic and sun-dried tomatoes",
+      "Add spinach and cook until wilted",
+      "Pour in heavy cream and bring to a simmer",
+      "Add Parmesan cheese and stir until melted",
+      "Toss in cooked pasta and sliced chicken",
+      "Serve hot, garnished with extra Parmesan"
+    ],
+    "cooking_time": 30,
+    "servings": 4,
+    "created_at": "2024-07-17T11:50:00Z",
+    "updated_at": "2024-07-17T11:50:00Z",
+    "author": 2,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 520,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 32,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 26,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 44,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "29",
+    "title": "Butter Noodles",
+    "image": "food_29.png",
+    "price": 14,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Noodles",
+    "ingredients": [
+      "Egg noodles",
+      "Butter",
+      "Garlic powder",
+      "Parmesan cheese",
+      "Fresh parsley",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Cook egg noodles according to package instructions",
+      "Drain noodles, reserving some pasta water",
+      "Return noodles to the pot and add butter",
+      "Toss until butter is melted and noodles are coated",
+      "Add garlic powder, salt, and pepper",
+      "Sprinkle with Parmesan cheese and toss",
+      "Add pasta water if needed for creaminess",
+      "Garnish with fresh parsley before serving"
+    ],
+    "cooking_time": 15,
+    "servings": 4,
+    "created_at": "2024-07-17T11:55:00Z",
+    "updated_at": "2024-07-17T11:55:00Z",
+    "author": 3,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 320,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 10,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 14,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 40,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "30",
+    "title": "Veg Noodles",
+    "image": "food_30.png",
+    "price": 12,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Noodles",
+    "ingredients": [
+      "Rice noodles",
+      "Mixed vegetables (carrots, bell peppers, cabbage)",
+      "Soy sauce",
+      "Sesame oil",
+      "Garlic",
+      "Ginger",
+      "Green onions",
+      "Vegetable oil",
+      "Salt",
+      "Black pepper"
+    ],
+    "instructions": [
+      "Soak rice noodles in hot water until soft",
+      "Heat vegetable oil in a wok or large pan",
+      "Stir-fry garlic and ginger",
+      "Add mixed vegetables and cook until tender-crisp",
+      "Drain noodles and add to the pan",
+      "Add soy sauce and sesame oil",
+      "Toss everything together",
+      "Season with salt and pepper",
+      "Garnish with green onions before serving"
+    ],
+    "cooking_time": 20,
+    "servings": 3,
+    "created_at": "2024-07-17T12:00:00Z",
+    "updated_at": "2024-07-17T12:00:00Z",
+    "author": 1,
+    "is_featured": true,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 280,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 6,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 48,
+        "unit": "g"
+      }
+    ]
+  },
+  {
+    "id": "31",
+    "title": "Somen Noodles",
+    "image": "food_31.png",
+    "price": 20,
+    "description": "Food provides essential nutrients for overall health and well-being",
+    "category": "Noodles",
+    "ingredients": [
+      "Somen noodles",
+      "Dashi stock",
+      "Soy sauce",
+      "Mirin",
+      "Green onions",
+      "Nori (seaweed)",
+      "Sesame seeds",
+      "Ginger (optional)"
+    ],
+    "instructions": [
+      "Cook somen noodles according to package instructions",
+      "Rinse noodles in cold water and drain well",
+      "Prepare dipping sauce by mixing dashi, soy sauce, and mirin",
+      "Divide noodles among serving bowls",
+      "Serve with dipping sauce on the side",
+      "Garnish with green onions, nori, and sesame seeds",
+      "Offer grated ginger on the side if desired"
+    ],
+    "cooking_time": 15,
+    "servings": 2,
+    "created_at": "2024-07-17T12:05:00Z",
+    "updated_at": "2024-07-17T12:05:00Z",
+    "author": 2,
+    "is_featured": false,
+    "nutrition": [
+      {
+        "name": "Calories",
+        "value": 220,
+        "unit": "kcal"
+      },
+      {
+        "name": "Protein",
+        "value": 8,
+        "unit": "g"
+      },
+      {
+        "name": "Fat",
+        "value": 2,
+        "unit": "g"
+      },
+      {
+        "name": "Carbohydrates",
+        "value": 44,
+        "unit": "g"
+      }
+    ]
+  }
+]
